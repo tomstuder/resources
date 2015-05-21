@@ -40,6 +40,7 @@ General Resources &amp; Links
 
 ## Ruby on Rails
 + [Ruby on Rails Guides](http://guides.rubyonrails.org/)
++ [Rails Bridge](http://docs.railsbridge.org/docs/)
 + [CodeLearn](http://www.codelearn.org/ruby-on-rails-tutorial)
 + [Ruby on Rails](http://rubyonrails.org/)
 + [Rails Tutorial](https://www.railstutorial.org/)
