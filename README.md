@@ -83,12 +83,12 @@ General Resources &amp; Links
 
 
 ## Placeholders
-+ Images
++ **Images**
   + [PLACEHOLDIT](http://placehold.it/)
   + [LoremPixel](http://lorempixel.com/)
   + [Fill Murray](http://www.fillmurray.com/)
 
-+ Text
++ **Text**
   + [CicnyIpsum](http://www.cincyipsum.com/)
   + [Lipsum](http://www.lipsum.com/)
   + [Blokk - Font](http://blokkfont.com/)
