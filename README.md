@@ -2,6 +2,9 @@
 General Resources &amp; Links
 
 -----------------
+[Git](Git)
+
+
 
 ## Varied Courses & Resources
 **Web, Programming, Design, UX/UI, iOS and More ...**
@@ -54,7 +57,7 @@ General Resources &amp; Links
 + [Ruby Toolbox](https://www.ruby-toolbox.com/)
 + [Ruby Gems](https://rubygems.org/)
 
-## Git
+## Git ## <a id="Git"></a>
 + [Git](http://git-scm.com/)
 + [Git for Designers](http://blog.teamtreehouse.com/git-for-designers-part-1)
 + [Try Git](https://try.github.io/levels/1/challenges/1)
@@ -103,6 +106,9 @@ General Resources &amp; Links
 + [Awwwards](http://www.awwwards.com/)
 + [The FWA](http://www.thefwa.com/)
 + [CSS Design Awards](http://www.cssdesignawards.com/)
++ [Design Inspiration](http://designspiration.net/)
++ [UnMatched Style](http://unmatchedstyle.com/)
++ [Nice One Like](http://www.niceoneilike.com/)
 + [OFFF](http://www.offf.ws/)
 
 ## NEWS
