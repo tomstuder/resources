@@ -2,7 +2,8 @@
 General Resources &amp; Links
 
 -----------------
-[Git](Git)
+
+[Git](#Git)
 
 
 
