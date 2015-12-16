@@ -13,10 +13,15 @@ General Resources &amp; Links
 + [Skillshare](http://www.skillshare.com/)
 + [W3Schools](http://www.w3schools.com/)
 + [SitePoint](http://www.sitepoint.com/)
-+ [Learnable](https://learnable.com/)
++ [Sitepoint](https://www.sitepoint.com/)
 + [A List Apart](http://alistapart.com/)
 + [Udemy](https://www.udemy.com/)
 + [Kadenze](https://www.kadenze.com/)
+
+### Books
++ [IT eBooks](http://www.it-ebooks.info/)
+
+
 
 
 ## HTML
