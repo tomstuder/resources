@@ -15,6 +15,9 @@ General Resources &amp; Links
 + [SitePoint](http://www.sitepoint.com/)
 + [Learnable](https://learnable.com/)
 + [A List Apart](http://alistapart.com/)
++ [Udemy](https://www.udemy.com/)
++ [Kadenze](https://www.kadenze.com/)
+
 
 ## HTML
 + [W3Shools](http://www.w3schools.com/html/)
