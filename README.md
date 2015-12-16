@@ -3,10 +3,6 @@ General Resources &amp; Links
 
 -----------------
 
-[Git](#Git)
-
-
-
 ## Varied Courses & Resources
 **Web, Programming, Design, UX/UI, iOS and More ...**
 
@@ -34,6 +30,20 @@ General Resources &amp; Links
 + [Can I Use?](http://caniuse.com/)
 + [CodeSchool - Sass](https://www.codeschool.com/courses/assembling-sass)
 
+## Processing
++ [Processing.org](https://processing.org/)
++ [Processing.org Tutorials](https://processing.org/tutorials/)
++ [Joshua Davis - Skillshare](https://www.skillshare.com/joshuadavis)
++ [Joshua Davis - GumRoad](https://gumroad.com/joshuadavis)
++ [Learning Processing - SHiffman](http://learningprocessing.com/)
++ [Shiffman - Youtube](https://www.youtube.com/user/shiffman/playlists?flow=grid&view=50&shelf_id=2)
+
+## p5.js
++ [p5.js site](http://p5js.org/)
++ [Shiffman Resources](http://shiffman.net/teaching/a2z/week1/)
++ [Shiffman Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
++ [Kadenze p5.js Course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
+
 ## Ruby
 + [Code School - Ruby Track](https://www.codeschool.com/paths/ruby)
 + [CodeAcademy](http://www.codecademy.com/tracks/ruby)
@@ -54,7 +64,7 @@ General Resources &amp; Links
 + [SitePoint - Ruby on Rails](http://www.sitepoint.com/ruby/ruby-on-rails/)
 + [RailsCasts](http://railscasts.com/)
 
-## Ruby/Rails - Gems
+### Ruby/Rails - Gems
 + [Ruby Toolbox](https://www.ruby-toolbox.com/)
 + [Ruby Gems](https://rubygems.org/)
 
