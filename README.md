@@ -46,6 +46,12 @@ General Resources &amp; Links
 + [Learning Processing - SHiffman](http://learningprocessing.com/)
 + [Shiffman - Youtube](https://www.youtube.com/user/shiffman/playlists?flow=grid&view=50&shelf_id=2)
 
+## javaScript
++ [Eloquent javaScript](http://eloquentjavascript.net/)
++ [Treehouse](https://teamtreehouse.com/library/topic:javascript)
++ [CodeAcademy](https://www.codecademy.com/learn/javascript)
++ [w3Schools](http://www.w3schools.com/js/)
+
 ## p5.js
 + [p5.js site](http://p5js.org/)
 + [Shiffman Resources](http://shiffman.net/teaching/a2z/week1/)
