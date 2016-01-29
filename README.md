@@ -110,7 +110,6 @@ General Resources &amp; Links
 + [Vim Learning List](http://www.labnol.org/internet/learning-vim-for-beginners/28820/)
 [Book - Learning Vi and Vim](http://www.amazon.com/Learning-Vim-Editors-Arnold-Robbins/dp/059652983X/ref=pd_sim_sbs_14_1?ie=UTF8&refRID=1G6NBY2KAQWR5G4DZ8X4)
 
-
 ## Placeholders
 + **Images**
   + [PLACEHOLDIT](http://placehold.it/)
@@ -128,6 +127,7 @@ General Resources &amp; Links
 
 ## Inspiration
 + [Site Inspire](http://www.siteinspire.com/)
++ [Codrops](http://tympanus.net/codrops/)
 + [Awwwards](http://www.awwwards.com/)
 + [The FWA](http://www.thefwa.com/)
 + [CSS Design Awards](http://www.cssdesignawards.com/)
