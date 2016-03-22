@@ -68,6 +68,7 @@ General Resources &amp; Links
 + [Rails Bridge](http://docs.railsbridge.org/docs/)
 + [CodeLearn](http://www.codelearn.org/ruby-on-rails-tutorial)
 + [Ruby on Rails](http://rubyonrails.org/)
++ [Learn-Rails](http://learn-rails.com/)
 + [Rails Tutorial](https://www.railstutorial.org/)
 + [CodeAcademy](http://www.codecademy.com/learn/learn-rails)
 + [Rails For Zombies](http://railsforzombies.org/)
