@@ -4,7 +4,7 @@ General Resources &amp; Links
 -----------------
 
 ## Varied Courses & Resources
-**Web, Programming, Design, UX/UI, iOS and More ...**
+**Web, Programming, Design, CX/UX/UI, iOS and More ...**
 
 + [Team Treehouse](https://teamtreehouse.com/)
 + [Lynda](http://www.lynda.com/)
@@ -20,9 +20,6 @@ General Resources &amp; Links
 
 ### Books
 + [IT eBooks](http://www.it-ebooks.info/)
-
-
-
 
 ## HTML
 + [W3Shools](http://www.w3schools.com/html/)
@@ -144,6 +141,14 @@ General Resources &amp; Links
 
 ## Daily Links
 + [Sidebar](http://sidebar.io/)
++ [CollectUI](http://collectui.com/)
++ [Aboard.io](http://aboard.io/)
++ [DZineBlog](http://dzineblog.com)
+
+## CX/UX/UI
++ [Nielsen Norman Group](https://www.nngroup.com)
+
+
 
 
 
