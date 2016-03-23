@@ -75,6 +75,8 @@ General Resources &amp; Links
 + [Rails Girls](http://railsgirls.com/)
 + [SitePoint - Ruby on Rails](http://www.sitepoint.com/ruby/ruby-on-rails/)
 + [RailsCasts](http://railscasts.com/)
++ [Cheat Sheet](http://www.pragtob.info/rails-beginner-cheatsheet/)
++ [Exercism.io](http://exercism.io/how-it-works/newbie)
 
 ### Ruby/Rails - Gems
 + [Ruby Toolbox](https://www.ruby-toolbox.com/)
