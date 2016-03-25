@@ -48,6 +48,7 @@ General Resources &amp; Links
 + [Treehouse](https://teamtreehouse.com/library/topic:javascript)
 + [CodeAcademy](https://www.codecademy.com/learn/javascript)
 + [w3Schools](http://www.w3schools.com/js/)
++ [JS Mozilla Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## p5.js
 + [p5.js site](http://p5js.org/)
@@ -81,6 +82,9 @@ General Resources &amp; Links
 ### Ruby/Rails - Gems
 + [Ruby Toolbox](https://www.ruby-toolbox.com/)
 + [Ruby Gems](https://rubygems.org/)
+
+## SQL  
++ [mySQL](http://dev.mysql.com/doc/refman/5.7/en/)
 
 ## Git ## <a id="Git"></a>
 + [Git](http://git-scm.com/)
