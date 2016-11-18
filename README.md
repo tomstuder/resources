@@ -131,6 +131,7 @@ General Resources &amp; Links
 
 ## Inspiration
 + [Site Inspire](http://www.siteinspire.com/)
++ [Design Movies](http://www.designmovi.es/)
 + [Codrops](http://tympanus.net/codrops/)
 + [Awwwards](http://www.awwwards.com/)
 + [The FWA](http://www.thefwa.com/)
@@ -153,7 +154,11 @@ General Resources &amp; Links
 + [DZineBlog](http://dzineblog.com)
 
 ## CX/UX/UI
-+ [Nielsen Norman Group](https://www.nngroup.com)
++ [Nielsen Norman Group](https://www.nngroup.com)  
++ [UXPA](https://uxpa.org/resources/about-ux)  
++ [UXPIN](https://www.uxpin.com/)  
++ [UX Booth](http://www.uxbooth.com/)  
++ [A List Apart](http://alistapart.com/)  
 
 
 
