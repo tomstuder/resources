@@ -95,7 +95,7 @@ General Resources &amp; Links
 + [Git List from GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 ## Markdown
-+ [Markdown Guide](https://www.markdownguide.org) 
++ [Markdown Guide](https://www.markdownguide.org)
 + [Daring Fireball](http://daringfireball.net/projects/markdown/)
 + [Markdown Tutorial](http://markdowntutorial.com/)
 + [GitBook - Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details)
